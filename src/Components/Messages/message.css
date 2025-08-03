@@ -1,0 +1,11 @@
+.message-container{
+    display: flex;
+}
+
+.message-container.my-message{
+    justify-content: flex-end;
+}
+
+.message{
+    width: 200px;
+}
